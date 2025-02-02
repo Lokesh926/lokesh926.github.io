@@ -23,7 +23,7 @@ navbar:
 social:
   github: lokesh926
   twitter: yourtwitterhandle
-  linkedin: yourlinkedinprofile
+  linkedin: https://www.linkedin.com/in/lokesh-katuri/
 
 # Build settings
 markdown: kramdown
