@@ -3,7 +3,7 @@ email: lokesh.katuri26@gmail.com
 description: >-
   A brief description of your site.
 baseurl: "" # Set if your site is in a subdirectory
-url: "https://yourusername.github.io" # Your GitHub Pages URL
+url: "https://lokesh926.github.io" # Your GitHub Pages URL
 
 theme: minima # Choose a Jekyll theme
 plugins:
@@ -14,10 +14,10 @@ plugins:
 navbar:
   - name: Home
     link: /
-  - name: Project
-    link: /about
+  - name: Projects
+    link: /projects
   - name: Blog
-    link: /blog
+    link: /blogs
 
 # Social media links
 social:
