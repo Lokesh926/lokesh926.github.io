@@ -1,9 +1,9 @@
 title: Lokesh Katuri
-emailme: lokesh.katuri26@gmail.com
+email: lokesh.katuri26@gmail.com
 description: >-
-  "My day starts with a good tea."
-
-url: "https://lokesh926.github.io" # Your GitHub Pages URL
+  A brief description of your site.
+baseurl: "" # Set if your site is in a subdirectory
+url: "https://yourusername.github.io" # Your GitHub Pages URL
 
 theme: minima # Choose a Jekyll theme
 plugins:
@@ -23,7 +23,7 @@ navbar:
 social:
   github: lokesh926
   twitter: yourtwitterhandle
-  linkedin: https://www.linkedin.com/in/lokesh-katuri/
+  linkedin: yourlinkedinprofile
 
 # Build settings
 markdown: kramdown
