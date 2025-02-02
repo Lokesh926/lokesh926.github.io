@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Hey Folks, 
 ---
 
 ## About Me

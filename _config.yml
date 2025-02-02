@@ -1,10 +1,3 @@
-title: Lokesh Katuri
-email: lokesh.katuri26@gmail.com
-description: >-
-  A brief description of your site.
-baseurl: "" # Set if your site is in a subdirectory
-url: "https://yourusername.github.io" # Your GitHub Pages URL
-
 theme: minima # Choose a Jekyll theme
 plugins:
   - jekyll-feed
