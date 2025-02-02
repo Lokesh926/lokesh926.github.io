@@ -1,8 +1,8 @@
 title: Lokesh Katuri
-email: lokesh.katuri26@gmail.com
+emailme: lokesh.katuri26@gmail.com
 description: >-
-  Day never starts i.
-baseurl: "" # Set if your site is in a subdirectory
+  "My day starts with a good tea".
+
 url: "https://lokesh926.github.io" # Your GitHub Pages URL
 
 theme: minima # Choose a Jekyll theme
@@ -14,10 +14,10 @@ plugins:
 navbar:
   - name: Home
     link: /
-  - name: About
-    link: /about
+  - name: Project
+    link: /projects
   - name: Blog
-    link: /blog
+    link: /blogs
 
 # Social media links
 social:
