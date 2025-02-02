@@ -1,15 +1,25 @@
 ---
 layout: page
-title: Blog
+title: Blogs
 permalink: /blogs/
 ---
 
-## Blogs
-How data science can helping building better products? (coming soon...)
+# 📚 Blogs
 
-Improve existing ML Models by integrating LLM Models into the workflow ? (coming soon...)
+🚀 Stay tuned for insights on **Machine Learning, AI, and Data Science**! 
 
-ML Automation at its best ? (coming soon...)
+## Upcoming Articles
 
-Causal Inference in Product Experiments (Case study on Netflix) - (coming soon)
+- **How Data Science Helps Build Better Products?** *(Coming soon...)*  
+  Exploring how data-driven decisions shape product development and user experience.
 
+- **Improving ML Models by Integrating LLMs into the Workflow** *(Coming soon...)*  
+  Learn how **Large Language Models (LLMs)** can enhance traditional ML pipelines.
+
+- **ML Automation at Its Best** *(Coming soon...)*  
+  Automating machine learning pipelines for efficiency, scalability, and performance.
+
+- **Causal Inference in Product Experiments: A Netflix Case Study** *(Coming soon...)*  
+  How **causal inference** helps in A/B testing and decision-making at scale.
+
+🔔 **Subscribe or follow me on GitHub for updates!**
