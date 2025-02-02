@@ -15,9 +15,9 @@ navbar:
   - name: Home
     link: /
   - name: Project
-    link: /projects
+    link: /about
   - name: Blog
-    link: /blogs
+    link: /blog
 
 # Social media links
 social:
