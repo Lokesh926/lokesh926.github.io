@@ -10,7 +10,7 @@ navbar:
   - name: About
     link: /about
   - name: Blog
-    link: /blog
+    link: /blogs
 
 # Social media links
 social:
