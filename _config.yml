@@ -1,3 +1,10 @@
+title: Lokesh Katuri
+email: lokesh.katuri26@gmail.com
+description: >-
+  Day never starts i.
+baseurl: "" # Set if your site is in a subdirectory
+url: "https://lokesh926.github.io" # Your GitHub Pages URL
+
 theme: minima # Choose a Jekyll theme
 plugins:
   - jekyll-feed
@@ -7,10 +14,10 @@ plugins:
 navbar:
   - name: Home
     link: /
-  - name: Projects
-    link: /projects
+  - name: About
+    link: /about
   - name: Blog
-    link: /blogs
+    link: /blog
 
 # Social media links
 social:
